@@ -39,6 +39,8 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 
 ## Getting Started
 
+- [JSON Schema master reference](https://stephcraft.net/docs/json-schema?utm_source=awesome-jsonschema) - A single page reference about JSON Schema containing intuitive code snippets.
+- [JSON Schema Tutorial: How to Write and Validate JSON Schema](https://jsonviewertool.com/blog/json-schema-tutorial?utm_source=awesome-jsonschema) - An introduction to schema keywords and validation with JavaScript Ajv and Python jsonschema, including dialect selection, format checking, and reporting validation errors.
 - [Learn JSON Schema](https://www.learnjsonschema.com?utm_source=awesome-jsonschema) - A comprehensive JSON Schema documentation website covering all specification versions.
 - [JSON Schema Tour](https://tour.json-schema.org?utm_source=awesome-jsonschema) - An interactive tutorial to learn JSON Schema step by step.
 
@@ -54,6 +56,7 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 - [JSONBuddy](https://www.json-buddy.com?utm_source=awesome-jsonschema) - A JSON editor and validator desktop application for Windows.
 - [Schema Gateway](https://github.com/sravan27/schema-gateway?utm_source=awesome-jsonschema) - Compile one JSON Schema into provider-ready request payloads for OpenAI, Gemini, Anthropic, and Ollama, then lint portability issues locally, in CI, or through a hosted API.
 - [Sourcemeta Studio](https://github.com/sourcemeta/studio?utm_source=awesome-jsonschema) - A Visual Studio Code extension providing professional JSON Schema tooling with real-time linting, automatic formatting, and metaschema validation.
+- [greencheck](https://github.com/simin-yuan/greencheck?utm_source=awesome-jsonschema) - Mutation testing and discriminability checks for JSON Schema validators, gates, and metrics: deliberately damage an artefact and re-run the validator to expose mutations that escape, and flag measurements that cannot react differently to inputs they claim to distinguish.
 - [schema-envoy](https://github.com/tamerkalla/schema-envoy?utm_source=awesome-jsonschema) - Convert a JSON Schema to an LLM provider&#x27;s accepted keyword subset and get a machine-checked report of every constraint the conversion dropped, plus a residual validator over those dropped constraints so widened values can be rejected rather than only logged.
 
 ## Books
@@ -112,6 +115,7 @@ GitHub](https://github.com/sponsors/sourcemeta)**
 
 For more video content, check out the [official JSON Schema YouTube channel](https://www.youtube.com/channel/UCrl3fjmHSp6FhJUKcEJhisA) and the [JSON Schema Conference](https://conference.json-schema.org) website.
 
+- (2026) [What exactly is JSON Schema?](https://drive.google.com/file/d/1Fhz9hW6amY011HI5fk9j5GZ-DP1z_864/view?usp=sharing?utm_source=awesome-jsonschema) - This presentation discusses the very basic ideas of JSON Schema using analogies to help beginners build their concepts with greater clarity..
 - (2026) [Under the hood of JSON Schema](https://lnkd.in/p/dA3K-yJB?utm_source=awesome-jsonschema) - A video presentation exploring the internal mechanics of JSON Schema, covering meta-schemas, AST compilation, and memory pointers. The link to the full slide deck is available in the  comments of the LinkedIn post..
 - (2026) [Twisters and Standard Schemas](https://drive.google.com/file/d/1kG_vd9rAqbUWKOVK0kZs0p9T_hBSroIc/view?usp=drive_link?utm_source=awesome-jsonschema) - A video presentation discussing an interesting twister- &quot;JSON Schema is written in JSON&quot; and keywords used in a standard schema with the help of some analogies..
 - (2021) [So you think you understand JSON Schema? - Ben Hutton](https://www.youtube.com/watch?v=vMG0NCDifI0?utm_source=awesome-jsonschema) - In this session you&#x27;ll learn some key fundamentals, intracacies that even catch out the experienced, and how to develop your own interoperable JSON Schema Vocabulary.
